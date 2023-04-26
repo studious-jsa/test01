@@ -1,0 +1,11 @@
+remote name
+test01
+
+아이디
+studious-jsa@naver.com
+
+URL
+https://github.com/studious-jsa/test01.git
+
+토큰
+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
